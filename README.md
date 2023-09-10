@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shahil! <br/><a href="https://github.com/joshmadakor1">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
+<h1>Hi, I'm Shahil! <br/><a href="https://github.com/shahilspatel">Developer</a>/<a href="https://www.linkedin.com/in/shahil-patel-709aab73/">Cloud Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
