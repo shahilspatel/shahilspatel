@@ -5,6 +5,10 @@
 - <b>Deploying Serverless Application using Lambda</b>
   - [Serverless Application](https://github.com/shahilspatel/Serverless-Application)
 
+- <b>Deploying Application using EKS and Kubernetes</b>
+  - [Kubernetes Deployment](https://github.com/shahilspatel/Kubernetes-Deployment)
+
+
 <!--
 **shahilspatel/shahilspatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
