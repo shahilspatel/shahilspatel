@@ -7,7 +7,7 @@
 - <b>Cloud Resume Challenge</b>
   - [Cloud Resume Challenge](https://github.com/shahilspatel/Cloud-Resume-Challenge)
 -  <b>GitOps</b>
-  - [GitOps](https://github.com/shahilspatel/GitOps)
+   - [GitOps](https://github.com/shahilspatel/GitOps)
 - <b>Deploying Application using EKS and Kubernetes</b>
   - [Kubernetes Deployment](https://github.com/shahilspatel/Kubernetes-Deployment)
 
